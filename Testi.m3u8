@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml"
 
-#EXTINF:-1 tvg-id="610dtv.ar", tvg-logo="https://i.imgur.com/7bJVo9V.png" group-title="DEPORTES", DSports ARG
+#EXTINF:-1 tvg-id="610dtv.ar", tvg-logo="https://i.imgur.com/7bJVo9V.png" group-title="DEPORTES", DSports Argentina
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -10,7 +10,7 @@
 #KODIPROP:inputstream.adaptive.license_key={"3e1c0dd8d951335d9d8c534d29277c91":"978f073eee32606a3f2544306fb1a7b3"}
 https://1059-vos.dtvott.com/DASH/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OHR99lF.png" group-title="DEPORTES", ESPN 2 ARG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OHR99lF.png" group-title="DEPORTES", ESPN 2 Argentina
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -20,5 +20,27 @@ https://1059-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"579fc0cd11842bce9c045a0d55aa4872":"bf54d928e27061a13fafdde934146472"}
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN2)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGAS EUROPEAS", LIGA ESPAÑOLA (2)
-https://mlb.mrgamingstreams.com/espnd.m3u8
+#EXTINF:-1  group-title="SD", AMC
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+ 
+#EXTINF:-1  group-title="SD", NAT GEO
+http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
+ 
+#EXTINF:-1  group-title="SD", HBO 2
+http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", ESPN 3 México
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", FX
+http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4ScBEQi2tblkag3rOl1xvQ","kid":"HX7TgVy643hc6_5rQvPGVQ"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png?raw=true" group-title="PREMIUM",HBO Family Prueba
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_FAMILY_HD)/manifest.mpd
