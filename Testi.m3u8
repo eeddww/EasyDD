@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml"
 
-#EXTINF:-1 tvg-id="610dtv.ar", tvg-logo="https://i.imgur.com/7bJVo9V.png" group-title="DEPORTES", DSports Argentina
+#EXTINF:-1 tvg-id="610dtv.ar", tvg-logo="https://i.imgur.com/7bJVo9V.png" group-title="Deportes", DSports Argentina
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -10,7 +10,7 @@
 #KODIPROP:inputstream.adaptive.license_key={"3e1c0dd8d951335d9d8c534d29277c91":"978f073eee32606a3f2544306fb1a7b3"}
 https://1059-vos.dtvott.com/DASH/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OHR99lF.png" group-title="DEPORTES", ESPN 2 Argentina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OHR99lF.png" group-title="Deportes", ESPN 2 Argentina
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
