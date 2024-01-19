@@ -47,6 +47,19 @@ http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
 #EXTINF:0 group-title="SD", FX
 http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
 
+#EXTINF:0 group-title="Noticias" tvg-id="246" tvg-logo="https://medias.unifrance.org/medias/5/67/148229/format_hd/tve-television-espanola.png",TVPeru
+https://ott1.hdlatam.tv/live/TVPERUNOTICIAS_SD/playlist.m3u8
+
+#EXTINF:0 group-title="Shows" tvg-logo="https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png", America Peru
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"57ad785322e04cc3ba1c0ee5028cb9ff":"2e465a9a43cc7d3038cd423d24d5d25e","00e0cd7f5a2448d7bacf8f69553112c3":"2f972d93bd9b27b00692651fbe600e5c"}
+https://1279247418.rsc.cdn77.org/bpk-tv/QMCRTV/dash/manifest.mpd
+
+#EXTINF:0 group-title="Shows" tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/TmQwVfw.png", Latina Peru
+https://jireh-1-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
+
 #EXTINF:0 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png?raw=true" group-title="PREMIUM",HBO Family Prueba
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
