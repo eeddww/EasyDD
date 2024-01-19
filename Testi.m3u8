@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml"
 
-#EXTINF:-1 tvg-id="610dtv.ar", tvg-logo="https://i.imgur.com/7bJVo9V.png" group-title="Deportes", DSports Argentina
+#EXTINF:-1 tvg-id="610dtv.ar" tvg-logo="https://i.imgur.com/7bJVo9V.png" group-title="Deportes", DSports Argentina
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
@@ -10,7 +10,7 @@
 #KODIPROP:inputstream.adaptive.license_key={"3e1c0dd8d951335d9d8c534d29277c91":"978f073eee32606a3f2544306fb1a7b3"}
 https://1059-vos.dtvott.com/DASH/manifest.mpd
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/7bJVo9V.png",DSports 2 Argentina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7bJVo9V.png" group-title="Deportes", DSports 2 Argentina
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -27,21 +27,22 @@ https://1063-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"579fc0cd11842bce9c045a0d55aa4872":"bf54d928e27061a13fafdde934146472"}
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN2)/master.mpd
 
-#EXTINF:-1  group-title="SD", AMC
+#EXTINF:-1 group-title="SD", AMC
 http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", NAT GEO
+#EXTINF:-1 group-title="SD", NAT GEO
 http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
  
-#EXTINF:-1  group-title="SD", HBO 2
+#EXTINF:-1 group-title="SD", HBO 2
 http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
 
-#EXTINF:-1  group-title="SD", ESPN 3 México
+#EXTINF:-1 group-title="SD", ESPN 3 México
 http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
 
-#EXTINF:-1  group-title="SD", FX
+#EXTINF:-1 group-title="SD", FX
 http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png?raw=true" group-title="PREMIUM",HBO Family Prueba
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -49,7 +50,6 @@ http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png?raw=true" group-title="PREMIUM",HBO Family Prueba
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_FAMILY_HD)/manifest.mpd
 
 #EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="|Sport",DAZN F1 Prueba
