@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml"
 
-#EXTINF:0 group-title="Deportes", TUDN USA
+#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png", TUDN USA
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://weblivehdplay.ru/
 https://01-24.webhd.ru/ddy1/premium66/tracks-v1a1/mono.m3u8
 
