@@ -42,13 +42,15 @@ http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
 
 #EXTINF:0 group-title="Deportes", TUDN USA Prueba
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.webhd.ru/wmsxx.php?name=premium66&number=1
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 https://01-24.webhd.ru/ddy1/premium66/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="Deportes", beIN Sports Español Prueba
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.webhd.ru/wmsxx.php?name=premium372
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
 https://01-24.webhd.ru/ddh1/premium372/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="SD", ESPN 3 México
