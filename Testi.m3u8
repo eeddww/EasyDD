@@ -44,6 +44,9 @@ http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
 #EXTINF:0 group-title="Deportes", TUDN USA Prueba
 https://01-24.webhd.ru/ddy1/premium66/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 group-title="Deportes", beIN Sports Español Prueba
+https://01-24.webhd.ru/ddh1/premium372/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 group-title="SD", ESPN 3 México
 http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
 
