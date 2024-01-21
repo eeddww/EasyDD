@@ -10,6 +10,16 @@ https://01-24.webhd.ru/cache2/aHR0cDovL2RkeTEubm5vdG9wbGF5LmNsaWNrL3ByZW1pdW02Ni
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://weblivehdplay.ru/
 https://01-24.webhd.ru/ddy6/aHR0cDovL2RkaDEubm5vdG9wbGF5LmNsaWNrL3ByZW1pdW0zNzIvbW9uby5tM3U4.m3u8
 
+#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png", GolPeru
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" -referer "https://weblivehdplay.ru"
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://lovesomecommunity.com/
+https://po2.ainakwalajeen.com:999/hls/golperu1.m3u8
+
+#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/831px-ESPN_wordmark.svg.png", ESPN Star+
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" -referer "https://weblivehdplay.ru"
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hoca4u.com/
+https://s4.noshwsmkm.com:999/hls/wsmkmlfeed103.m3u8
+
 #EXTINF:0 group-title="Shows", AMC Argentina
 http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
  
