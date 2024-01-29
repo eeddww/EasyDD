@@ -6,9 +6,10 @@
 https://01-24.webhd.ru/cache2/aHR0cDovL2RkeTEubm5vdG9wbGF5LmNsaWNrL3ByZW1pdW02Ni9tb25vLm0zdTg=.m3u8
 
 #EXTINF:0 group-title="Deportes", beIN Sports Español
+#https://dlhd.sx/embed/stream-372.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://weblivehdplay.ru/
-https://01-24.webhd.ru/ddy6/aHR0cDovL2RkaDEubm5vdG9wbGF5LmNsaWNrL3ByZW1pdW0zNzIvbW9uby5tM3U4.m3u8
+https://01-24.webhd.ru/cache1/premium372/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png", GolPeru Prueba
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
