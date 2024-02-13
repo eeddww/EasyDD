@@ -10,7 +10,7 @@ http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
 
 #EXTINF:0 group-title="Deportes" tvg-id="" tvg-logo="https://raw.githubusercontent.com/eeddww/EasyDD/main/ESPN2_logo.png", ESPN NOSE
-https://telerium.me/espn.php
+#https://telerium.me/espn.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
@@ -22,6 +22,13 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(E
 #KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd
 
+#EXTINF:0 group-title="Deportes" tvg-id="" tvg-logo="", FOX Sports
+#https://telerium.me/foxsports.php
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd
+
 #EXTINF:0 group-title="Deportes" tvg-id="610dtv.ar" tvg-logo="https://i.imgur.com/7bJVo9V.png", DSports Argentina
 #https://telerium.biz/stream/directv.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
@@ -31,7 +38,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(E
 https://1059-vos-da-mt.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:0 group-title="Deportes" tvg-id="610dtv.ar" tvg-logo="https://i.imgur.com/7bJVo9V.png", DSports Plus
-https://telerium.biz/stream/directvplus.php
+#https://telerium.biz/stream/directvplus.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pirlotvenvivo.me
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -52,7 +59,6 @@ https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/ch
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"57ad785322e04cc3ba1c0ee5028cb9ff":"2e465a9a43cc7d3038cd423d24d5d25e","00e0cd7f5a2448d7bacf8f69553112c3":"2f972d93bd9b27b00692651fbe600e5c"}
 https://1279247418.rsc.cdn77.org/bpk-tv/QMCRTV/dash/manifest.mpd
-
 
 #EXTINF:0 group-title="Noticias" tvg-id="246" tvg-logo="https://medias.unifrance.org/medias/5/67/148229/format_hd/tve-television-espanola.png",TVPeru Test
 https://ott1.hdlatam.tv/live/TVPERUNOTICIAS_SD/playlist.m3u8
