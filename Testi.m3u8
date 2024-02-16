@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml"
 
-#EXTINF:-1 group-title="Deportes" tvg-id="" tvg-logo="", ESPN Premium Prueba
+#EXTINF:0 group-title="Deportes" tvg-id="" tvg-logo="", ESPN Premium Falta
 #https://telerium.biz/stream/espn-premiun.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86e27005c58957c2ea99c4d1bafa4600:e8da81fd3bb6a2ec4ccc9d60d2981bf2
 https://edge8144.telecentro.net.ar/bpk-token/1ae@14ei2j2starhrta5ga4dfjqytixhbcpc1ob2kuda/GlobalManifest.mpd
 
-#EXTINF:-1 group-title="Shows" tvg-id="" tvg-logo="", HBO HD
+#EXTINF:0 group-title="Shows" tvg-id="" tvg-logo="", HBO HD
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4ScBEQi2tblkag3rOl1xvQ","kid":"HX7TgVy643hc6_5rQvPGVQ"}],"type":"temporary"}
@@ -35,7 +35,7 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(E
 #KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd
 
-#EXTINF:0 group-title="Deportes" tvg-id="" tvg-logo="", FOX Sports
+#EXTINF:0 group-title="Deportes" tvg-id="" tvg-logo="", ESPN 7
 #https://telerium.me/foxsports.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -53,10 +53,10 @@ https://1059-vos-da-mt.dtvott.com/DASH/manifest.mpd
 #EXTINF:0 group-title="Deportes" tvg-id="610dtv.ar" tvg-logo="https://i.imgur.com/7bJVo9V.png", DSports Plus
 #https://telerium.biz/stream/directvplus.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://pirlotvenvivo.me
+#KODIPROP:inputstream.adaptive.stream_headers=referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:7400a9f905f172d5d74d7dc440724c8e
-https://1071-abc-da-bpk.dtvott.com/dash_live_1071/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=
+
 
 #EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/1024px-DAZN_LaLiga_2023_Logo.svg.png", DAZN La Liga
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -73,41 +73,21 @@ https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/ch
 #KODIPROP:inputstream.adaptive.license_key={"57ad785322e04cc3ba1c0ee5028cb9ff":"2e465a9a43cc7d3038cd423d24d5d25e","00e0cd7f5a2448d7bacf8f69553112c3":"2f972d93bd9b27b00692651fbe600e5c"}
 https://1279247418.rsc.cdn77.org/bpk-tv/QMCRTV/dash/manifest.mpd
 
-#EXTINF:0 group-title="Noticias" tvg-id="246" tvg-logo="https://medias.unifrance.org/medias/5/67/148229/format_hd/tve-television-espanola.png",TVPeru Test
-https://ott1.hdlatam.tv/live/TVPERUNOTICIAS_SD/playlist.m3u8
+#EXTINF:0 group-title="Deportes", ESPN 3 México
 
-#EXTINF:0 group-title="Shows", ESPN 3 México Test
-http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
-
-#EXTINF:0 group-title="Shows", NAT GEO Test
-http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
-
-#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png", Liga 1 Max Test
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://lovesomecommunity.com/
-https://s2.noshwsmkm.com:999/hls/golperu1.m3u8?md5=8HrAgpVQzeuBcIcYTGt97Q&expires=1705817749
-
-#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/831px-ESPN_wordmark.svg.png", ESPN Star+ Test
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://hoca4u.com/
-https://s4.noshwsmkm.com:999/hls/wsmkmlfeed103.m3u8
-
-#EXTINF:0 group-title="Deportes" tvg-logo="https://i.imgur.com/7bJVo9V.png", DSports 2 Argentina Test
+#EXTINF:0 group-title="Deportes" tvg-logo="https://i.imgur.com/7bJVo9V.png", DSports 2 Argentina Falta
 #
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c44d52b11dce3875ad2765c9d469075b:af4ba31c1324eb92ac88463f7bd941d5
-https://1063-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=
 
-#EXTINF:0 group-title="Shows", FX Test
-http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
 
-#EXTINF:0 group-title="Deportes", beIN Sports Español Test
+#EXTINF:0 group-title="Deportes", beIN Sports Español
 #https://dlhd.sx/embed/stream-372.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://weblivehdplay.ru/
 https://02-24.webhd.ru/ddh1/premium372/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png", TUDN USA Test
+#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png", TUDN USA Falta
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://weblivehdplay.ru/
-https://01-24.webhd.ru/cache2/aHR0cDovL2RkeTEubm5vdG9wbGF5LmNsaWNrL3ByZW1pdW02Ni9tb25vLm0zdTg=.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=referer=
+
