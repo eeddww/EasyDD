@@ -7,7 +7,7 @@
 #KODIPROP:inputstream.adaptive.license_key=86e27005c58957c2ea99c4d1bafa4600:e8da81fd3bb6a2ec4ccc9d60d2981bf2
 https://edge8144.telecentro.net.ar/bpk-token/1ae@14ei2j2starhrta5ga4dfjqytixhbcpc1ob2kuda/GlobalManifest.mpd
 
-#EXTINF:0 group-title="Shows" tvg-id="" tvg-logo="", HBO HD
+#EXTINF:0 group-title="Shows" tvg-id="" tvg-logo="", HBO HD MAL
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4ScBEQi2tblkag3rOl1xvQ","kid":"HX7TgVy643hc6_5rQvPGVQ"}],"type":"temporary"}
@@ -80,8 +80,7 @@ https://1279247418.rsc.cdn77.org/bpk-tv/QMCRTV/dash/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 
-
-#EXTINF:0 group-title="Deportes", beIN Sports Español
+#EXTINF:0 group-title="Deportes", beIN Sports Español BLOQ
 #https://dlhd.sx/embed/stream-372.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://weblivehdplay.ru/
