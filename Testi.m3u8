@@ -22,14 +22,14 @@ http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
 #EXTINF:0 group-title="Shows", HBO 2
 http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
 
-#EXTINF:0 group-title="Deportes" tvg-id="" tvg-logo="https://raw.githubusercontent.com/eeddww/EasyDD/main/ESPN2_logo.png", ESPN NOSE
+#EXTINF:0 group-title="Deportes" tvg-id="" tvg-logo="https://raw.githubusercontent.com/eeddww/EasyDD/main/ESPN2_logo.png", ESPN 2
 #https://telerium.me/espn.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd
 
-#EXTINF:-1 group-title="Deportes" tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png", ESPN Star+
+#EXTINF:-1 group-title="Deportes" tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png", ESPN Colombia
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
@@ -56,7 +56,6 @@ https://1059-vos-da-mt.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-
 
 #EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/1024px-DAZN_LaLiga_2023_Logo.svg.png", DAZN La Liga
 #KODIPROP:inputstream.adaptive.license_type=clearkey
