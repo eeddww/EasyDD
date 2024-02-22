@@ -8,7 +8,7 @@
 https://edge8144.telecentro.net.ar/bpk-token/1ae@14ei2j2starhrta5ga4dfjqytixhbcpc1ob2kuda/GlobalManifest.mpd
 
 #EXTINF:0 group-title="Deportes" tvg-id="" tvg-logo="", ESPN 4 T1
-https://telerium.biz/stream/espnextra.php
+#https://telerium.biz/stream/espnextra.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1edee1ef683e9518a172af824b07642a:39371baca096e3c1c896e55bab88b564
