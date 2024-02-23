@@ -1,6 +1,6 @@
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml"
+#EXTM3U
 
-#EXTINF:0 group-title="Deportes" tvg-logo="https://i.imgur.com/OHR99lF.png", ESPN 2 Argentina
+#EXTINF:0 group-title="Deportes" tvg-logo="", ESPN 2 Argentina
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=579fc0cd11842bce9c045a0d55aa4872:bf54d928e27061a13fafdde934146472
 https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN2)/master.mpd
@@ -11,7 +11,7 @@ https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/ch
 #KODIPROP:inputstream.adaptive.license_key=8d7103c488b2074130894cdd94cd7223:e23595762d2924120685682ec1180b61
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPNHDPAN)/manifest.mpd
 
-#EXTINF:0 group-title="Deportes" tvg-id="" tvg-logo="https://raw.githubusercontent.com/eeddww/EasyDD/main/ESPN2_logo.png", ESPN 2
+#EXTINF:0 group-title="Deportes" tvg-id="" tvg-logo="", ESPN 2
 #https://telerium.me/espn.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -56,29 +56,20 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(H
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24c2a4df8e8ddd176661ca6e0d61b26b:b1b13889f71a96902c28582302163a5c
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_HD_MX)/manifest.mpd
-
-#EXTINF:0 group-title="Shows", HBO 2
-http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
-
-#EXTINF:0 group-title="Shows" tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/TmQwVfw.png", Latina Peru
+
+#EXTINF:0 group-title="Shows" tvg-id="Latina.pe" tvg-logo="", Latina Peru
 https://jireh-1-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8
 
 #EXTINF:0 group-title="Shows", AMC Argentina
 http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
 
-
-
-
-
-#EXTINF:-1 group-title="Deportes" tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png", ESPN Colombia
+#EXTINF:-1 group-title="Deportes" tvg-id="" tvg-logo="", ESPN Colombia
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd
 
-
-
-#EXTINF:0 group-title="Deportes" tvg-id="610dtv.ar" tvg-logo="https://i.imgur.com/7bJVo9V.png", DSports Argentina
+#EXTINF:0 group-title="Deportes" tvg-id="" tvg-logo="", DSports Argentina
 #https://telerium.biz/stream/directv.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pirlotvenvivo.me/
@@ -86,28 +77,24 @@ https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(E
 #KODIPROP:inputstream.adaptive.license_key=3e1c0dd8d951335d9d8c534d29277c91:978f073eee32606a3f2544306fb1a7b3
 https://1059-vos-da-mt.dtvott.com/DASH/manifest.mpd
 
-#EXTINF:0 group-title="Deportes" tvg-id="610dtv.ar" tvg-logo="https://i.imgur.com/7bJVo9V.png", DSports Plus
+#EXTINF:0 group-title="Deportes" tvg-id="" tvg-logo="", DSports Plus
 #https://telerium.biz/stream/directvplus.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.stream_headers=referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 
-#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/1024px-DAZN_LaLiga_2023_Logo.svg.png", DAZN La Liga
+#EXTINF:0 group-title="Deportes" tvg-logo="", DAZN La Liga
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
-
-
-#EXTINF:0 group-title="Shows" tvg-logo="https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png", America Peru
+#EXTINF:0 group-title="Shows" tvg-logo="", America Peru
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"57ad785322e04cc3ba1c0ee5028cb9ff":"2e465a9a43cc7d3038cd423d24d5d25e","00e0cd7f5a2448d7bacf8f69553112c3":"2f972d93bd9b27b00692651fbe600e5c"}
 https://1279247418.rsc.cdn77.org/bpk-tv/QMCRTV/dash/manifest.mpd
 
-
-
-#EXTINF:0 group-title="Deportes" tvg-logo="https://i.imgur.com/7bJVo9V.png", DSports 2 Argentina Falta
+#EXTINF:0 group-title="Deportes" tvg-logo="", DSports 2 Argentina Falta
 #
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
@@ -118,7 +105,7 @@ https://1279247418.rsc.cdn77.org/bpk-tv/QMCRTV/dash/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://weblivehdplay.ru/
 https://02-24.webhd.ru/ddh1/premium372/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png", TUDN USA Falta
+#EXTINF:0 group-title="Deportes" tvg-logo="", TUDN USA Falta
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 #KODIPROP:inputstream.adaptive.stream_headers=referer=
 
